@@ -1,4 +1,4 @@
-package com.study.ws.test1.client;
+package com.test.client;
 
 import com.study.ws.test1.HelloWSImpl;
 import com.study.ws.test1.HelloWSImplService;
